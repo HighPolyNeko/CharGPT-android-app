@@ -1,0 +1,3 @@
+com.app.chatgpt.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

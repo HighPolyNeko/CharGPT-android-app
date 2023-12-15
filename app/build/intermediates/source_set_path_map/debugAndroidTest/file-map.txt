@@ -1,0 +1,7 @@
+com.app.chatgpt.test.app-core-1.5.0-0 C:\Users\sergi\.gradle\caches\transforms-3\9b253c21eb34c2ca55b005d63301f25d\transformed\core-1.5.0\res
+com.app.chatgpt.test.app-annotation-experimental-1.3.0-1 C:\Users\sergi\.gradle\caches\transforms-3\a06d473136c0bbd2f11c5c105c269193\transformed\annotation-experimental-1.3.0\res
+com.app.chatgpt.test.app-androidTest-2 D:\GithubRepositories\ChatGPT-Android-app\app\build\generated\res\resValues\androidTest\debug
+com.app.chatgpt.test.app-androidTest-3 D:\GithubRepositories\ChatGPT-Android-app\app\build\generated\res\rs\androidTest\debug
+com.app.chatgpt.test.app-mergeDebugAndroidTestResources-4 D:\GithubRepositories\ChatGPT-Android-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.app.chatgpt.test.app-mergeDebugAndroidTestResources-5 D:\GithubRepositories\ChatGPT-Android-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.app.chatgpt.test.app-merged_res-6 D:\GithubRepositories\ChatGPT-Android-app\app\build\intermediates\merged_res\debugAndroidTest
