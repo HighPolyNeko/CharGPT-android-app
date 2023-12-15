@@ -46,6 +46,3 @@ This app uses third-party service API ( Open AI API ), you can generate your own
  
 </table>
 <br>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sibananda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sibananda" /></a><a href="https://ko-fi.com/sibananda"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sibananda" /></a></p><br><br><br>
